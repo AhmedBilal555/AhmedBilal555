@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm 👋
 
-<!--
-**AhmedBilal555/AhmedBilal555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer focused on learning, problem-solving, and building a strong foundation in software development. I enjoy writing clean, readable code and steadily improving my skills through hands-on projects.
 
-Here are some ideas to get you started:
+##  Primary Focus
+- Python (core concepts, scripting, and application development)
+- Writing maintainable and well-structured code
+- Understanding fundamentals deeply rather than rushing tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Python best practices
+- Data structures & algorithms
+- Version control and collaborative workflows
+- Applying theory through small, focused projects
+
+## 📂 What You'll Find Here
+- Learning projects and exercises
+- Experiments with Python concepts
+- Gradual progress toward more complex applications
+
+## 🎯 Goals
+- Build a solid Python foundation
+- Develop real-world problem-solving skills
+- Grow into a disciplined and reliable developer
+
+Always learning, always improving.
