@@ -1,4 +1,4 @@
-# Hi There 😁
+# Hi There Iam Ahmed Bilal
 
 I'm a Python developer focused on learning, problem-solving, and building a strong foundation in software development. I enjoy writing clean, readable code and steadily improving my skills through hands-on projects.
 
