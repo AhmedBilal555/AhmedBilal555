@@ -1,4 +1,4 @@
-# Hi, I'm 👋
+# Hi There
 
 I'm a Python developer focused on learning, problem-solving, and building a strong foundation in software development. I enjoy writing clean, readable code and steadily improving my skills through hands-on projects.
 
@@ -12,11 +12,6 @@ I'm a Python developer focused on learning, problem-solving, and building a stro
 - Data structures & algorithms
 - Version control and collaborative workflows
 - Applying theory through small, focused projects
-
-## 📂 What You'll Find Here
-- Learning projects and exercises
-- Experiments with Python concepts
-- Gradual progress toward more complex applications
 
 ## 🎯 Goals
 - Build a solid Python foundation
