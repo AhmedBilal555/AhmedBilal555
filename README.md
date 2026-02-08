@@ -13,7 +13,7 @@ I'm Ahmed bilal a Python developer focused on learning, problem-solving, and bui
 - Version control and collaborative workflows
 - Applying theory through small, focused projects
 
-#### 🎯 Goals
+#### Goals
 - Build a solid Python foundation
 - Develop real-world problem-solving skills
 - Grow into a disciplined and reliable developer
