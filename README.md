@@ -19,3 +19,7 @@ I'm Ahmed bilal a Python developer focused on learning, problem-solving, and bui
 - Grow into a disciplined and reliable developer
 
 Always learning, always improving.
+
+#### Background
+I have prior experience building web projects using JavaScript and EJS (2021).
+Currently, my primary focus is Python — strengthening fundamentals, problem-solving skills, and clean coding practices.
